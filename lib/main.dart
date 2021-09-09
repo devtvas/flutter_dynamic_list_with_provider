@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
+    ///*[devtvas]
     String title = 'Dynamic ListView with Provider';
     return MaterialApp(
       theme: ThemeData(
